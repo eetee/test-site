@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Eugene Tsang
 description: Business Transformation
+
+details:
+  name: Eugene Tsang
+  phone: +64 21 845 258
+  email: et@eugenetsang.com
+  description: 
